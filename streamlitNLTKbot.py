@@ -1,6 +1,6 @@
 import streamlit as st
 from fuzzywuzzy import fuzz
-import time
+from datetime import time
 
 
 st.set_page_config(
