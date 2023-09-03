@@ -20,9 +20,9 @@ Queremos que você aproveite ao máximo nossa plataforma e encontre valor em nos
 
 menu_items = {
     "About": about_text,
-    "Report a bug": "mailto:anhambombe@gmail.com",  # Use o formato correto para um link de e-mail
-    "Get help": "https://streamlit.io/community"  # Adicione uma entrada para a página "About" em português
-}
+    "Report a bug": "mailto:anhambombee@gmail.com",  # Use o formato correto para um link de e-mail
+    "Get help": "mailto:leilanhime97@gmail.com"  # Adicione uma entrada para a página "About" em português
+}# "https://streamlit.io/community"
 
 # Configure a página
 st.set_page_config(
