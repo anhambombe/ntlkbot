@@ -28,7 +28,7 @@ menu_items = {
 st.set_page_config(
     page_title="mozango",
     page_icon="💖",
-    layout="wide"
+    layout="wide",
     menu_items=menu_items # Use a lista de itens de menu corretamente definida
 )
 
