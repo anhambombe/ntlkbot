@@ -2,12 +2,37 @@ import streamlit as st
 from fuzzywuzzy import fuzz
 from datetime import time
 
+about_text = """
+**Tudo por amor**
 
+Bem-vindo ao nosso aplicativo! 
+Estamos empolgados por você estar aqui e fique a vontade para saber um pouco de nós.
+
+**Missão e Objetivo**
+
+Nosso aplicativo foi desenvolvido com o objetivo de fornecer a você uma experiência única e útil. 
+Nossa missão é *escrever a nossa história* e *compartilhar opiniões*. 
+Queremos que você aproveite ao máximo nossa plataforma e encontre valor em nossos recursos.
+
+...
+
+"""
+
+menu_items = {
+    "About": about_text,
+    "Report a bug": "mailto:anhambombe@gmail.com",  # Use o formato correto para um link de e-mail
+    "Get help": "https://streamlit.io/community"  # Adicione uma entrada para a página "About" em português
+}
+
+# Configure a página
 st.set_page_config(
     page_title="mozango",
     page_icon="💖",
     layout="wide"
-    )
+    menu_items=menu_items # Use a lista de itens de menu corretamente definida
+)
+
+  
 # Função para ler e pré-processar os dados do arquivo
 def ler_dados_arquivo(arquivo):
     with open(arquivo, "r", encoding="latin-1") as file:
