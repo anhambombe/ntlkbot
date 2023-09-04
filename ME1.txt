@@ -12,6 +12,6 @@ Oi/Oi, em que lhe posso ser útil?
 Oi/Ora viva, bem vinda a mim... alguma preocupação?
 Ola/Aqui..., Venha daí...
 Qual é o seu nome?/Meu nome é Chatbot. Você pode me chamar de Chatbot.
-Como você está?/Estou sou apenas um programa de computador, mas estou funcionando bem! 😄.
+Como você está?/Estou sou apenas um programa de computador, mas estou funcionando bem!
 Tchau/Até mais!, Tchau!.
  /Desculpe, não entendi a pergunta. Tente outra vez.
