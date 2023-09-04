@@ -87,7 +87,12 @@ if st.button("Enviar"):
             st.write("Resposta do Chatbot:")
             st.write(response)
         else:
-            st.write("Pergunta não encontrada no arquivo. Eu fui limitado a dar respostas que estão no arquivo do meu treinamento para previnir respostas indesejadas.")
+            st.write("""Pergunta não encontrada no arquivo. 
+            Eu fui limitado a dar respostas que estão no arquivo do meu treinamento para previnir respostas indesejadas.
+            Ainda estou no incicio da minha aprendizagem, tenha paciência comigo, pois tudo é novo para mim... mas garanto-lhe
+            que vou me empenhar para saber mais e poder satisfazer as suas necesidades, dentro do possivel, é claro. Seu eu der uma
+            resposta errada, me perdoe, estou tentando entender esse mundo cheio de maravilhas e incôgnitas.
+            """)
     else:
         # Resposta padrão se a opção de treinamento com arquivo não estiver marcada
         st.markdown("**Opção *Treinar com Dados de Arquivo* não marcada. Por favor, marque a opção e tente novamente.**")
