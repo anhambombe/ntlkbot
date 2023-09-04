@@ -1,6 +1,7 @@
 import streamlit as st
 from fuzzywuzzy import fuzz
 from datetime import time
+import time
 
 about_text = """
 **Tudo por amor**
