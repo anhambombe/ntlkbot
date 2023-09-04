@@ -36,7 +36,7 @@ st.set_page_config(
   
 # Função para ler e pré-processar os dados do arquivo
 def ler_dados_arquivo(arquivo):
-    with open(arquivo, "r", encoding="latin-1") as file:
+    with open(arquivo, "r", encoding="utf-8") as file:
         linhas = file.readlines()
     pares_de_dialogo = [linha.strip().split("/") for linha in linhas]
     return pares_de_dialogo
