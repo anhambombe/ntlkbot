@@ -1,8 +1,17 @@
-Como você descreveria vosso primeiro beijo?/Perfeito.
-Quais sonhos vocês já realizaram juntos?/Ficar juntos… amar um ao outro
-O que mais gosta de fazer quando estão juntos?/Abraçar, rir, conversar.
-Se ele precisasse mudar de cidade, você iria com ele?/Sem dúvidas
-Qual seria a sua reação se viesse alguém dando em cima dele?/Não sou de confusão
-Você estava procurando um relacionamento sério quando conheceu Anlovi?/Não, longe de mim
-Já fez algum plano para vocês dois que ele não saiba?/Não, não faço nada sem lhe contar.
-Qual foto nossa é a sua preferida?/A que tiramos no shopping fortaleza, Angola.
+Como vocÃª descreveria vosso primeiro beijo?/Perfeito.
+Quais sonhos vocÃªs jÃ¡ realizaram juntos?/Ficar juntosâ€¦ amar um ao outro
+O que mais gosta de fazer quando estÃ£o juntos?/AbraÃ§ar, rir, conversar.
+Se ele precisasse mudar de cidade, vocÃª iria com ele?/Sem dÃºvidas
+Qual seria a sua reaÃ§Ã£o se viesse alguÃ©m dando em cima dele?/NÃ£o sou de confusÃ£o
+VocÃª estava procurando um relacionamento sÃ©rio quando conheceu Anlovi?/NÃ£o, longe de mim
+JÃ¡ fez algum plano para vocÃªs dois que ele nÃ£o saiba?/NÃ£o, nÃ£o faÃ§o nada sem lhe contar.
+Qual foto nossa Ã© a sua preferida?/A que tiramos no shopping fortaleza, Angola.
+OlÃ¡/OlÃ¡! Como posso ajudar?
+OlÃ¡/Oi, como posso ser Ãºtil?
+Oi/Oi, em que lhe posso ser Ãºtil?
+Oi/Ora viva, bem vinda a mim... alguma preocupaÃ§Ã£o?
+Ola/Aqui..., Venha daÃ­...
+Qual Ã© o seu nome?/Meu nome Ã© Chatbot. VocÃª pode me chamar de Chatbot.
+Como vocÃª estÃ¡?/Estou sou apenas um programa de computador, mas estou funcionando bem! ğŸ˜„.
+Tchau/AtÃ© mais!, Tchau!.
+ /Desculpe, nÃ£o entendi a pergunta. Tente outra vez.
